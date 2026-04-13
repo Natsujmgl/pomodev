@@ -9,6 +9,8 @@ import { useTimerStore } from './stores/useTimerStore'
 import { useLanguageStore } from './stores/useLanguageStore'
 import { useThemeStore } from './stores/useThemeStore'
 import { useAuthStore } from './stores/useAuthStore'
+import { useSettingsStore } from './stores/useSettingsStore'
+import { useStatsStore } from './stores/useStatsStore'
 import { AuthButton } from './components/AuthButton'
 import { AnimatePresence, motion } from 'framer-motion'
 
